@@ -13,6 +13,7 @@ pipeline {
               echo 'running test1'
               echo 'running test2'
               echo 'pip install flask'
+              echo 'python -m flask run'
           }
       }
   }
